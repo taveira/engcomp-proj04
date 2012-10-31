@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("2.1:1", "", "Classes", "EARoot/EA2/EA1/EA43.htm", "175.png", "18", "0", "", "Logical diagram0","{0585E370-1752-41ad-8B78-56A7A5A2AF01}");
+tocTab[tocTab.length] = new Array("2.1:2", "", "Consulta", "EARoot/EA2/EA1/EA45.htm", "5.png", "106", "0", "", "Class0","{0D79EC24-ABE6-42ea-9793-05EE6AF6C0A5}");
+tocTab[tocTab.length] = new Array("2.1:3", "", "Curso", "EARoot/EA2/EA1/EA46.htm", "5.png", "107", "0", "", "Class0","{EB1FF485-21E3-4f38-A785-EAA4BF61ED3C}");
+tocTab[tocTab.length] = new Array("2.1:4", "", "Dentista", "EARoot/EA2/EA1/EA47.htm", "5.png", "103", "0", "", "Class0","{AD1A73E4-BC18-4ce1-817B-D4C4708AD4F6}");
+tocTab[tocTab.length] = new Array("2.1:5", "", "Paciente", "EARoot/EA2/EA1/EA48.htm", "5.png", "105", "0", "", "Class0","{1FCA99E4-6491-4b62-B751-699258949C7B}");
+tocTab[tocTab.length] = new Array("2.1:6", "", "Pessoa", "EARoot/EA2/EA1/EA49.htm", "5.png", "108", "0", "", "Class0","{CB7DC67E-E185-4e27-BC7B-BE5973ABF6FD}");
+tocTab[tocTab.length] = new Array("2.1:7", "", "Usuario", "EARoot/EA2/EA1/EA50.htm", "5.png", "104", "0", "", "Class0","{5C1BB42D-1161-4b2f-931E-055BC9E0B4BD}");
